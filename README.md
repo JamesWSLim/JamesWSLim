@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project Jellycat](https://github.com/JamesWSLim/project-jellycat)
 
-- 💼 I'm currently looking for a **Data Analyst/Data Scientist/Data Engineer** job in Canada
+- 💼 I'm currently looking for a **Data Analyst/Data Scientist/Data Engineer** job in Singapore and Canada
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
