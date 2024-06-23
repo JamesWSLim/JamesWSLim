@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James Lim</h1>
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
-- 🔭 I’m currently working on [Project Jellycat](https://github.com/JamesWSLim/project-jellycat)
+- 🔭 I’m currently working on [Real Time Data Processing Analysis Project]([https://github.com/JamesWSLim/project-jellycat](https://github.com/JamesWSLim/real-time-data-streaming-project))
 
-- 💼 I'm currently looking for a **Data Analyst/Data Scientist/Data Engineer** job in Singapore and Canada
+- 💼 I'm currently looking for a **Data Analyst/Data Scientist/Data Engineer** job in Singapore and Malaysia
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
