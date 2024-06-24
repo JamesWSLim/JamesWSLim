@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Lim</h1>
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
-- 🔭 I’m currently working on [Real Time Data Processing Analysis Project][(https://github.com/JamesWSLim/real-time-data-streaming-project)](https://github.com/JamesWSLim/real-time-data-streaming-project)
+- 🔭 I’m currently working on [Real Time Data Processing Analysis Project](https://github.com/JamesWSLim/real-time-data-streaming-project)
 
 - 💼 I'm currently looking for a **Data Analyst/Data Scientist/Data Engineer** job in Singapore and Malaysia
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jameslimws0514@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LJm_ZWq6CZB08EpB4E7nGRHJDBOk4EmL/view?usp=sharing](https://drive.google.com/file/d/1LJm_ZWq6CZB08EpB4E7nGRHJDBOk4EmL/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LJm_ZWq6CZB08EpB4E7nGRHJDBOk4EmL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
